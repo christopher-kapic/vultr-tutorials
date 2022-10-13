@@ -19,9 +19,6 @@ sudo apt upgrade
 
 apt install -y ffmpeg cuda
 
-# curl -O https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh
-# bash Anaconda3-2022.05-Linux-x86_64.sh
-
 wget https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh -O ~/anaconda.sh
 bash ~/anaconda.sh -b -p $HOME/anaconda
 
