@@ -1,6 +1,6 @@
 ## Using Rife for Frame Interpolation on Vultr's GPU VMs
 
-0. Provision the VM (Ubuntu 22.04)
+0. Provision the VM (Ubuntu 20.04)
 
 1. Install ffmpeg and Anaconda
 
